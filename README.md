@@ -1,3 +1,10 @@
+# VOICEVOX VVM とは
+
+VOICEVOX 用の 音声モデル（VVM ファイル）です。
+[VOICEVOX CORE](https://github.com/VOICEVOX/voicevox_core)を用いることで、プログラム上で VOICEVOX 音声を生成できます。
+
+---
+
 <!-- terms start -->
 
 # VOICEVOX 音声モデル 利用規約
@@ -401,20 +408,3 @@ https://zunko.jp/con_ongen_kiyaku.html
 | 18.vvm | 中部つるぎ | 絶望と敗北 | 98 |
 
 <!-- vvm-table end -->
-
----
-
-# VOICEVOX VVM
-
-VOICEVOX 用の VVM ファイルを管理・公開しています。
-
-## 更新
-
-### VVM 追加の流れ
-
-1. `vvms`ディレクトリに追加
-2. ドキュメントを更新
-
-### ドキュメント更新
-
-1. `scripts/make_docs.py` を実行
